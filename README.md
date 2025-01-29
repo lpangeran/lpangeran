@@ -24,4 +24,4 @@ Hello! I'm Laetticia. I'm an aspiring Data Analyst with a strong foundation in I
 - Data Visualizatin: Tableau, Power BI, Looker Studio
 
 ## 📖 Projects
-Welcome to my portfolio!
+Welcome to my [portfolio](https://github.com/lpangeran/Portfolio-Guide)!
