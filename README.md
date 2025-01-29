@@ -26,5 +26,5 @@ Hello! I'm Laetticia. I'm an aspiring Data Analyst with a strong foundation in I
 ## 📖 Projects
 Welcome to my [portfolio](https://github.com/lpangeran/Portfolio-Guide)!
 
-## Connect with Me
+## 💬 Connect with Me
 - [Linkedin](www.linkedin.com/in/lpangeran)
