@@ -30,5 +30,8 @@ Business Information Systems - International Program
 - Power BI
 - Looker Studio
 
+## 🗨️ CONTACT ME
+- Email: laetticia.p@gmail.com
+- LinkedIn: [www.linkedin.com/in/lpangeran](http://www.linkedin.com/in/lpangeran)
 ## 🗺️ PROJECTS
 Welcome to my [portfolio](https://github.com/lpangeran/Portfolio-Guide/tree/main)!
