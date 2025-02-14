@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! 👋
 
 <!--
 **lpangeran/lpangeran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I'm Laetticia. I'm an aspiring Data Analyst with a strong foundation in Information Systems who values adaptability and curiosity.
+My name is Laetticia Pangeran. With a background in Information Systems, I have developed a strong foundation in tools and techniques such as Spreadsheets, SQL, Python, and Data Visualization, allowing me to tackle complex data analysis tasks. I enjoy exploring and learning new things to expand my knowledge and skills. I am excited to apply my technical proficiency and collaborative experience to deliver valuable insights and drive informed decision-making as a Data Analyst.
 
-## 🛠️ Tools
-- Spreadsheets: Excel, Google Sheets
-- SQL: Google BigQuery, MySQL
-- Python: Google Colab, Jupyter Notebook/Anaconda
-- Data Visualization: Tableau, Power BI, Looker Studio
+## 📖 EDUCATION
+2018 - 2023: Binus International University
+Bachelor of Science
+Business Information Systems - International Program
 
-## 📖 Projects
+## 🛠️ SKILLS
+- Excel/Google Sheets
+- SQL
+- Python
+- Tableau
+- Power BI
+- Looker Studio
+
+## 🗺️ PROJECTS
 Welcome to my [portfolio](https://github.com/lpangeran/Portfolio-Guide/tree/main)!
-
-## 💬 Connect with Me
-- [Linkedin](www.linkedin.com/in/lpangeran)
